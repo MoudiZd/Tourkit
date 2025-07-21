@@ -77,6 +77,8 @@ A **Pro version** of Tourkit is in development!
 - Resume/skip logic
 - Multiple visual themes
 - visual drag-and-drop step builder (planned)
+- Events callbacks support (onNext,onPrevious,onFinish...)
+- Restrict movement across steps on form inputs validity
 
 📢 If you'd like to support the project or get early access, visit:  
 [BuyMeACoffee – coming soon](#) • [Gumroad – coming soon](#)
