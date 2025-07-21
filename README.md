@@ -64,7 +64,8 @@ tour.startTour();
 | seenVariableName | String	| LocalStorage key to remember if tour was shown |
 | tourParent | String or jQuery	Container | for scoped tour (optional)
 
-## 💰 Want More Features?
+<details>
+<summary>💰 Want More Features</summary>
 
 A **Pro version** is coming soon with:
 - Auto-step detection (`data-tour` attributes)
@@ -74,6 +75,7 @@ A **Pro version** is coming soon with:
 
 Support its development and get early access at [BuyMeACoffee - available soon](#) or [Gumroad - available soon](#) ☕️
 
+</details>
 ---
 
 ## 📳 Contact
