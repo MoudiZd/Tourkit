@@ -1,0 +1,27 @@
+.tour-overlay {
+  position: fixed;
+  background: rgba(0,0,0,0.6);
+  z-index: 9998;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
+
+.tour-tooltip {
+  position: absolute;
+  background: white;
+  padding: 12px 16px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  z-index: 9999;
+  max-width: 260px;
+}
+
+.tour-tooltip .btn {
+  margin-top: 10px;
+}
+
+.tour-highlight {
+  position: relative;
+  z-index: 10000;
+  box-shadow: 0 0 0 4px rgba(255, 255, 0, 0.7);
+  border-radius: 6px;
+}
