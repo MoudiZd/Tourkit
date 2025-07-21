@@ -42,9 +42,11 @@ Include jQuery + Font Awesome + Bootstrap (optional), and then:
 <div class="tour-tooltip" style="display: none;"></div>
 ```
 
+```markdown
+
 ## 🛠️ Usage 
 
-```
+```js
 let tour = new Tourkit({
   steps: [
     {element: '#name', text: 'Enter your name here'},
@@ -65,15 +67,18 @@ tour.startTour();
 | tourParent | String or jQuery	Container | for scoped tour (optional)
 
 <details>
-<summary>💰 Want More Features</summary>
+<summary>💰 Want More Features?</summary>
 
-A **Pro version** is coming soon with:
-- Auto-step detection (`data-tour` attributes)
-- Better mobile layout & responsiveness
-- Support for resuming or skipping steps
-- Multiple themes & visual configurator
+A **Pro version** of Tourkit is in development!
 
-Support its development and get early access at [BuyMeACoffee - available soon](#) or [Gumroad - available soon](#) ☕️
+- Auto-detection of steps using `data-tour`
+- Mobile friendly ui and repositioning
+- Resume/skip logic
+- Multiple visual themes
+- visual drag-and-drop step builder (planned)
+
+📢 If you'd like to support the project or get early access, visit:  
+[BuyMeACoffee – coming soon](#) • [Gumroad – coming soon](#)
 
 </details>
 ---
