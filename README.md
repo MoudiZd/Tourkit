@@ -82,3 +82,8 @@ I'm offering a Pro version with:
 - Visual config tool (coming soon)
 
 Support development: BuyMeACoffee or Gumroad
+
+
+📬 Contact
+
+For help or integration support: [Telegram me](https://t.me/@advanced_developer)/[Email me](mailto:advanced(dash)developer(at)hotmail(dot)com)
