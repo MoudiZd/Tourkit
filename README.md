@@ -2,12 +2,19 @@
 
 **TourKit** is a simple, lightweight guided tour/onboarding plugin using jQuery. It helps you highlight elements and guide users step by step across a form or interface.
 
-✔️ Works on non-React websites  
-✔️ Supports RTL  
-✔️ Uses `localStorage` to prevent repeat tours  
-✔️ Bootstrap + Font Awesome compatible  
-✔️ Easy to integrate in any existing HTML/Bootstrap project
-✔️ Use tourParent to separate forms tours by their global wrapper
+
+✔️ Works on non-React websites.
+
+✔️ Supports RTL.
+
+✔️ Uses `localStorage` to prevent repeat tours.
+
+✔️ Bootstrap + Font Awesome compatible.
+
+✔️ Easy to integrate in any existing HTML/Bootstrap project.
+
+✔️ Use tourParent to separate forms tours by their global wrapper.
+
 ---
 
 ## 🚀 Features
