@@ -3,17 +3,12 @@
 **TourKit** is a simple, lightweight guided tour/onboarding plugin using jQuery. It helps you highlight elements and guide users step by step across a form or interface.
 
 
-✔️ Works on non-React websites.
-
-✔️ Supports RTL.
-
-✔️ Uses `localStorage` to prevent repeat tours.
-
-✔️ Bootstrap + Font Awesome compatible.
-
-✔️ Easy to integrate in any existing HTML/Bootstrap project.
-
-✔️ Use tourParent to separate forms tours by their global wrapper.
+- ✔️ Works on non-React websites
+- ✔️ Supports RTL
+- ✔️ Uses `localStorage` to prevent repeat tours
+- ✔️ Bootstrap + Font Awesome compatible
+- ✔️ Easy to integrate in any existing HTML/Bootstrap project
+- ✔️ Use tourParent to separate forms tours by their global wrapper
 
 ---
 
@@ -29,8 +24,7 @@
 
 ## 🧪 Demo
 
-👉 [Live Demo (coming soon)](#)  
-Or clone and open `example.html` locally.
+👉 Clone and open `example.html` locally.
 
 ---
 
@@ -70,20 +64,19 @@ tour.startTour();
 | seenVariableName | String	| LocalStorage key to remember if tour was shown |
 | tourParent | String or jQuery	Container | for scoped tour (optional)
 
-
 ## 💰 Want More Features?
 
-I'm offering a Pro version with:
+A **Pro version** is coming soon with:
+- Auto-step detection (`data-tour` attributes)
+- Better mobile layout & responsiveness
+- Support for resuming or skipping steps
+- Multiple themes & visual configurator
 
-- Automatic step detection via data-tour
-- Better mobile behavior
-- Resume/skip logic
-- Custom themes
-- Visual config tool (coming soon)
+Support its development and get early access at [BuyMeACoffee - available soon](#) or [Gumroad - available soon](#) ☕️
 
-Support development: BuyMeACoffee or Gumroad
+---
 
+## 📳 Contact
 
-📬 Contact
-
-For help or integration support: [Telegram me](https://t.me/@advanced_developer)/[Email me](mailto:advanced(dash)developer(at)hotmail(dot)com)
+Need help integrating TourKit into your project?  
+[Telegram me](https://t.me/advanced_developer) • [Email me](mailto:advanced-developer@hotmail.com)
