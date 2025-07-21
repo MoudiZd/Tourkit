@@ -24,7 +24,8 @@
 
 ## 🧪 Demo
 
-👉 Clone and open `example.html` locally.
+👉 [Live Demo (GitHub Pages)](https://moudizd.github.io/Tourkit)  
+Or clone the repo and open `example.html` locally.
 
 ---
 
